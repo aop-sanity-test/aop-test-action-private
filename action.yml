@@ -1,6 +1,6 @@
-name: 'aop-test-action'
-description: 'aop-test-action'
-author: 'aop-test-action author'
+name: 'aop-test-action-private'
+description: 'aop-test-action-private'
+author: 'aop-test-action-private author'
 inputs:
   milliseconds: # change this
     required: true
